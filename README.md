@@ -41,7 +41,12 @@ php artisan serve
 
 ## Preview
 
-![Screenshot 2024-08-07 091943](https://github.com/user-attachments/assets/73695ab1-d84c-443a-af61-1dab956892bd)
-![Screenshot 2024-08-07 091954](https://github.com/user-attachments/assets/b0871497-d5ec-43e2-bab8-ea81d00b2db1)
-![Screenshot 2024-08-07 092008](https://github.com/user-attachments/assets/502445f7-14e8-47f0-aa49-9d7d21dd50d0)
-![Screenshot 2024-08-07 092034](https://github.com/user-attachments/assets/42b55f53-2e9e-4b16-8f2f-da703198dd94)
+![Screenshot 2024-08-07 091943](https://github.com/user-attachments/assets/3c98460d-82ca-42e4-8aa2-37b48ccd9049)
+
+![Screenshot 2024-08-07 091954](https://github.com/user-attachments/assets/0b1f9b48-c0c3-456e-9240-67a3c0b28415)
+
+![Screenshot 2024-08-07 092008](https://github.com/user-attachments/assets/9a0c0146-7b82-45a2-a07e-1ad148a27bef)
+
+![Screenshot 2024-08-07 092034](https://github.com/user-attachments/assets/705c7636-cf7f-4fd4-af55-26e39266ff65)
+
+
